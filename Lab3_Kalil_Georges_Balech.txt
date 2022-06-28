@@ -1,0 +1,42 @@
+Agenda Eletronica
+Lab 3
+Heap
+Prioridades
+Xuxu beleza
+--------------------------------------------------
+RESPOSTAS DAS CONSULTAS
+--------------------------------------------------
+60       Fazer lab de ces-11
+50       Relatorio de quimica
+40       Estudar matematica
+AVISO    Nao ha tarefas na agenda  :-)
+ERRO     Agenda cheia. Impossivel inserir
+80       comer a morena
+80       comer a morena de novo
+80       Ler noticias
+ERRO     Agenda cheia. Impossivel inserir
+ERRO     Agenda cheia. Impossivel inserir
+ERRO     Agenda cheia. Impossivel inserir
+75       Responder e-mails
+51       Ir ao banco pagar conta
+50       xupar a morena gostosinho
+30       mandar mensagem para a morena
+12       Escovar os dentes
+10       se masturbar
+ 8       Pentear o cabelo
+ 5       Limpar apartamento
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+AVISO    Nao ha tarefas na agenda  :-)
+
+--------------------------------------------------
+FICA PARA O DIA SEGUINTE
+--------------------------------------------------
+Agenda vazia! Nao restam tarefas para o dia seguinte.

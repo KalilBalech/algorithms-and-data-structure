@@ -1,0 +1,23 @@
+ULTIMO LAAAB
+FEH NO PAI QUE O LAB SAI
+LAB DOS GURI
+24 EH BIXO CABULOOOSO
+---------------------------------------
+Ordem de selecao pelo algoritmo
+---------------------------------------
+COCTA      IFI          3
+COCTA      ITA          5
+ITA        H8           1
+ITA        INPE         4
+INPE       DS           2
+
+Custo total: 15
+
+---------------------------------------
+Ordem crescente de custos
+---------------------------------------
+ITA        H8           1
+INPE       DS           2
+COCTA      IFI          3
+ITA        INPE         4
+COCTA      ITA          5

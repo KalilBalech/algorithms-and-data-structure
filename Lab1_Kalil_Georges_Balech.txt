@@ -1,0 +1,21 @@
+Aeroporto internacional do DCTA
+Senhores passageiros, nao usem o cinto de seguranca
+OBS: o piloto eh bom
+=========================================
+FLIGHT  FROM
+
+8888    Bogota
+1234    Amsterdam
+9999    Atenas
+0055    Paris
+8086    San Francisco
+
+LISTA URGENCIA:
+
+Vazia
+
+LISTA PRINCIPAL:
+
+4444    Londres
+2552    Tokyo
+6161    Hong Kong

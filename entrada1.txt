@@ -1,0 +1,24 @@
+Aeroporto internacional do DCTA
+Senhores passageiros, nao usem o cinto de seguranca
+OBS: o piloto eh bom
+OBS2: #boraDecolar
+=========================================
+MESSAGE           FLIGHT  FROM
+
+INICIO              0000  -
+pede_pouso          1234  Amsterdam
+pede_pouso          9999  Atenas
+pede_pouso          8888  Bogota
+URGENCIA            8888  -
+pista_liberada      0000  -
+pista_liberada      0000  -
+pede_pouso          8086  San Francisco
+pede_pouso          4444  Londres
+pede_pouso          0055  Paris
+pede_pouso          2552  Tokyo
+pista_liberada      0000  -
+URGENCIA            0055  -
+pede_pouso          6161  Hong Kong
+pista_liberada      0000  -
+pista_liberada      0000  -
+FIM                 0000  -

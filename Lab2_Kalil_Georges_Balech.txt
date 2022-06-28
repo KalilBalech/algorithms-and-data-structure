@@ -1,0 +1,46 @@
+    Agredeco a Deus, a minha familia e
+aos demais colaboradores.
+    Muito Obrigado!
+--------------------------------------------------
+ERRO: nao encontrado item esporte
+--------------------------------------------------
+ERRO: nao encontrado item esporte
+--------------------------------------------------
+ERRO: nao encontrado item esporte
+--------------------------------------------------
+ERRO: nao encontrado item coletivo
+--------------------------------------------------
+ERRO: nao encontrado item coletivo
+--------------------------------------------------
+ERRO: nao encontrado item futebol
+--------------------------------------------------
+ERRO: nao encontrado item natacao
+--------------------------------------------------
+ERRO: nao encontrado item ginastica
+--------------------------------------------------
+ERRO: nao encontrado item luta
+--------------------------------------------------
+ERRO: nao encontrado item jiu-jitsu
+--------------------------------------------------
+ERRO: comando inadequado
+--------------------------------------------------
+ERRO: nao encontrado item atletismo
+--------------------------------------------------
+ERRO: nao encontrado item maratona
+--------------------------------------------------
+ERRO: nao encontrado item 100_m_rasos
+--------------------------------------------------
+ERRO: nao en;contrado item volei
+--------------------------------------------------
+ERRO: nao en;contrado item luta
+--------------------------------------------------
+ERRO: nao en;contrado item badminton
+--------------------------------------------------
+ERRO: comando inadequado
+--------------------------------------------------
+ERRO: nao encontrado item coletivo
+--------------------------------------------------
+ERRO: nao encontrado item atletismo
+--------------------------------------------------
+ERRO: comando inadequado
+--------------------------------------------------
